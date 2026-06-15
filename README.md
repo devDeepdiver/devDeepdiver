@@ -31,8 +31,7 @@ class Junsu:
         self.role     = "Robotics System Integration Engineer"
         self.mission  = "AI 출력 → 로봇 행동 → 실제 서비스"
         self.location = "South Korea 🇰🇷"
-        self.now      = "AI융합로봇 SW 개발자 과정"
-        self.hobby    = ["로봇 만지기", "하드웨어 뜯기", "새벽 디버깅"]
+        self.special  = ["끝장 볼때까지 열심히 해보기"]
 
     def strengths(self):
         return {
@@ -73,6 +72,10 @@ class Junsu:
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ⚙️ Tools & Infra
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
