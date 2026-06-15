@@ -76,7 +76,9 @@ class RoboticsEngineer:
 ---
 ## 🧩 LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/devdeepdiver?theme=dark&font=Fira%20Code&ext=heatmap)(https://leetcode.com/devdeepdiver)
+[![LeetCode](https://img.shields.io/badge/LeetCode-629%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/devdeepdiver)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/devdeepdiver?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/devdeepdiver)
 
 ---
 
