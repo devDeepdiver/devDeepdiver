@@ -106,7 +106,6 @@ class RoboticsEngineer:
 | **🎮 GestDrive** | WebSocket 제스처 제어 RC카 (베어메탈 펌웨어 + AI 비전) | STM32 · ESP32 · RPi5 · YOLO · MediaPipe |
 | **🦾 LeRobot ACT** | 모방학습 파이프라인 (데이터 수집 → 클라우드 학습 → 추론) | ACT Policy · RunPod · HuggingFace |
 | **👁️ Visual Servoing** | YOLO + PID 기반 객체 추종 주행 시스템 | YOLO · PID · TurtleBot3 |
-| **🏭 Smart Factory** | PLC 모니터링 + 자연어 명령 파싱 시스템 | Modbus TCP · Streamlit |
 
 ---
 
