@@ -76,7 +76,7 @@ class RoboticsEngineer:
 ---
 ## 🧩 LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_ID?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/devdeepdiver)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/devdeepdiver?theme=dark&font=Fira%20Code&ext=heatmap)(https://leetcode.com/devdeepdiver)
 
 ---
 
