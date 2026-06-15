@@ -155,8 +155,6 @@ class Junsu:
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kdm111&color=FF8C61&style=for-the-badge&label=VISITORS)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
 
 </div>
