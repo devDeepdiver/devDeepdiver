@@ -1,6 +1,5 @@
 <div align="center">
 
-# Hi there, I'm Junsu 👋
 
 ### 🤖 Robotics Software Engineer | System Integration
 
