@@ -11,6 +11,16 @@
 
 ---
 
+## 🎯 What I'm Building Toward
+
+> 로봇이 실제 현장에서 동작하려면 AI 추론, 하드웨어 제어, 서비스 레이어가  
+> 끊김 없이 연결되어야 합니다. 저는 그 **연결 지점**을 설계하고 구현합니다.
+
+- 🤖 멀티로봇 시스템에서 신뢰할 수 있는 자율 행동 구현
+- 🔗 AI 모델의 출력을 실시간 로봇 제어로 변환하는 미들웨어 설계
+- 🏭 현장 투입 가능한 로봇 서비스 아키텍처
+
+  
 ## 🧭 About Me
 
 ```python
@@ -64,6 +74,11 @@ class RoboticsEngineer:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 🧩 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_ID?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/devdeepdiver)
+
+---
 
 ## 🚀 Featured Project
 
@@ -112,19 +127,7 @@ class RoboticsEngineer:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kdm111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdm111&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kdm111&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🌱 Currently Exploring
 
